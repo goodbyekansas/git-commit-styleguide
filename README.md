@@ -127,13 +127,10 @@ the way they work now, and why you decided to solve it the way you did.
 
 The future maintainer that thanks you may be yourself!
 
-### 8. Categorize the type of changes with the following emoji 
-(pro tip is to use the actual emoji char and not the shortcode):
+### 8. Categorize the type of changes with one or two of the following emoji
+These are placed at the start of the subject line as `emoji1 [emoji2] The actual subject`.
 
-Inspired by [dannyfritz/commit-message-emoji](https://github.com/dannyfritz/commit-message-emoji)
-
-See also [gitmoji](https://gitmoji.carloscuesta.me/).
-
+(pro tip is to use the actual emoji char and not the shortcode)
 |   Commit type              | Emoji                                                                  |
 |:---------------------------|:-----------------------------------------------------------------------|
 | Initial commit             | 🎉 `:tada:`                                                            |
