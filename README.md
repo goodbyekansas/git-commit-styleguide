@@ -131,6 +131,7 @@ The future maintainer that thanks you may be yourself!
 These are placed at the start of the subject line as `emoji1 [emoji2] The actual subject`.
 
 (pro tip is to use the actual emoji char and not the shortcode)
+
 |   Commit type              | Emoji                                                                  |
 |:---------------------------|:-----------------------------------------------------------------------|
 | Initial commit             | 🎉 `:tada:`                                                            |
