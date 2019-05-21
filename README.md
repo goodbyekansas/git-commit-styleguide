@@ -4,7 +4,7 @@ Styleguide for git commits @ GBK
 
 In general, we follow [this](https://chris.beams.io/posts/git-commit/).
 
-Take me to the [emojis!](#8-categorize-the-type-of-changes-with-the-following-emoji)
+Take me to the [emojis!](#8-categorize-the-type-of-changes-with-one-or-two-of-the-following-emoji)
 
 ## Summarized in steps:
 
