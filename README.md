@@ -6,6 +6,9 @@ In general, we follow [this](https://chris.beams.io/posts/git-commit/).
 
 Take me to the [emojis!](#8-categorize-the-type-of-changes-with-one-or-two-of-the-following-emoji)
 
+## Why are we doing this?
+In short: "The best commit histories tell an understandable story".
+
 ## Summarized in steps:
 
 ### 1. Separate subject from body with a blank line
