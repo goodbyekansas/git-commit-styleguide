@@ -139,6 +139,7 @@ These are placed at the start of the subject line as `emoji1 [emoji2] The actual
 |:---------------------------|:-----------------------------------------------------------------------|
 | Initial commit             | 🎉 `:tada:`                                                            |
 | Version tag                | 🔖 `:bookmark:`                                                        |
+| New Release                | 💎 `:diamond:`                                                         |
 | New feature                | ✨ `:sparkles:`                                                        |
 | Bugfix                     | 🐛 `:bug:`                                                             |
 | Metadata                   | 📇 `:card_index:`                                                      |
