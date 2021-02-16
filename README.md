@@ -133,7 +133,8 @@ The future maintainer that thanks you may be yourself!
 ### 8. Categorize the type of changes with one or two of the following emoji
 These are placed at the start of the subject line as `emoji1 [emoji2] The actual subject`.
 
-(pro tip is to use the actual emoji char and not the shortcode)
+Use the real emoji character, not the shortcode (🕴not :business_man_in_suit_levitating:)
+otherwise the readability of the log gets ruined
 
 |   Commit type              | Emoji                                                                  |
 |:---------------------------|:-----------------------------------------------------------------------|
