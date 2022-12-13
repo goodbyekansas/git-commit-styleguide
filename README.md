@@ -140,7 +140,7 @@ otherwise the readability of the log gets ruined
 |:---------------------------|:-----------------------------------------------------------------------|
 | Initial commit             | 🎉 `:tada:`                                                            |
 | Version tag                | 🔖 `:bookmark:`                                                        |
-| New Release                | 💎 `:diamond:`                                                         |
+| New Release                | 💎 `:gem:`                                                             |
 | New feature                | ✨ `:sparkles:`                                                        |
 | Bugfix                     | 🐛 `:bug:`                                                             |
 | Metadata                   | 📇 `:card_index:`                                                      |
