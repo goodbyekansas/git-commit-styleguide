@@ -178,4 +178,5 @@ otherwise the readability of the log gets ruined
 | Breaking changes           | 💥 `:boom:`                                                            |
 | Code review changes        | 👌 `:ok_hand:`                                                         |
 | Accessibility              | ♿ `:wheelchair:`                                                       |
+| Temporary hack             | 🔪 `:kitchen_knife:`                                                   |
 | Other                      | [Be creative](http://www.emoji-cheat-sheet.com/) and add to this list  |
